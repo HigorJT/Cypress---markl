@@ -1,0 +1,11 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta",
+  "main": "index.js",
+  "author": "Higor de Jesus Torres",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
